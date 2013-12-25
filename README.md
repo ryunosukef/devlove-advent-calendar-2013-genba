@@ -1,7 +1,7 @@
 DevLOVE Advent Calendar 2013.12.25
 ===========
 
-[DevLOVE Advent Calendar 2013 「現場」](http://devlove.doorkeeper.jp/events/7039)の46日目の記事です。 [yokatsukiさん]からバトンをお預かりしました。
+[DevLOVE Advent Calendar 2013 「現場」](http://devlove.doorkeeper.jp/events/7039)の47日目の記事です。 [YHさん](http://yokoh.github.io/devlove-advent-calendar-2013-genba/)からバトンをお預かりしました。
 
 自己紹介
 ---
@@ -78,4 +78,4 @@ DevLOVE Advent Calendar 2013.12.25
 
 Next
 ----
-次はYHさんが担当です。
+次は荻野恒太郎さんが担当です。
